@@ -13,7 +13,10 @@
 	padding: 20px 0px 20px 0px;
 	background-color: #D1C4E9;
 }
-
+ 
+.bgcolorr {
+    background-color: #D1C4E9;
+}
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
